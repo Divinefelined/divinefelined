@@ -1,5 +1,6 @@
 ##  
-<img width="736" height="536" alt="image" src="https://github.com/user-attachments/assets/774798ee-c59c-4a80-a3aa-549ff3860826" />
+![Uploading image.png…]()
+
 <!--
 **Divinefelined/divinefelined** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
